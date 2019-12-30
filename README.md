@@ -1,5 +1,5 @@
 # PhysicsNotesSUSTech
-To way to high score for the students in the department of physics in SUSTech
+The way to high score for the students in the department of physics in SUSTech
 
 这个Repo用于存储南方科技大学（SUSTech）物理系的相关课程资料。内容包括但不限于考试内容回忆，各种笔记。
 
